@@ -4,7 +4,7 @@
   "Priority": "Low",
   "Issue Status": "Blocked",
   "Issue Desription"
-  "Steps to reproduce: {
+  "Steps to reproduce": {
       "1.": "Select any dish",
       "2.": "Go to the basket",
       "3.": "Select a date next to the last delivery date in the menu (e.x. menu 8-11 Nov, select 15 Nov)",
